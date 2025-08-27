@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Gustavocaris/API_NodeJS/issues"
   },
-  "homepage": "https://github.com/Gustavocaris/API_NodeJS#readme"
+  "homepage": "https://github.com/Gustavocaris/API_NodeJS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
